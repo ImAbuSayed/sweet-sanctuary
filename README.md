@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sweet-sanctuary/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Sweet Sanctuary](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweet-sanctuary/) |
+| **Get License** | [Obtain a Music License for Sweet Sanctuary](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweet-sanctuary/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Close the door and leave the world outside,
+> Come a little closer, let the shadows hide.
+> I’ve been waiting for this moment all day,
+> To pull you in and let the quiet stay.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
